@@ -1,4 +1,9 @@
 html {
 	background-color: white;
-	color: blue;
+	color: black;
+}
+
+.container {
+	margin: 2rem auto;
+	width: 400px;
 }
